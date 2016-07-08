@@ -1,0 +1,15 @@
+{
+    "B_LOCATION_1": "{origin_airport}",
+    "E_LOCATION_1": "{destination_airport}",
+    "TRIP_TYPE": "{round_trip}",
+    "B_DATE_1": "{departure_year}{departure_month}{departure_day}0000",
+    "B_DATE_2": "{return_year}{return_month}{return_day}0000",
+    "adults": "1",
+    "children": "0",
+    "infants": "0",
+    "LANGUAGE": "BR",
+    "SITE": "JJBKJJBK",
+    "WDS_MARKET": "BR",
+    "MARKETING_CABIN": "E"
+}
+

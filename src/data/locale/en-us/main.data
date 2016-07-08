@@ -1,0 +1,12 @@
+{
+    "airline_not_supported": "airline %s not found",
+    "airport_not_found": "departure/return airport not found",
+    "airport_not_supported": "departure/return airport not supported by airline",
+    "invalid_dates": "invalid departure/return date (%s)",
+    "no_tickets": "no tickets found",
+    "request_failed": "request failed",
+    "search_failed": "your search could not be performed at this moment, please try again later",
+    "loading_headers": "loading headers of %s airline",
+    "getting_tickets": "collecting tickets",
+    "invalid_type": "incorrect variable type (%s)"
+}

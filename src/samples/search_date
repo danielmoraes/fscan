@@ -1,0 +1,2 @@
+python src/search_date.py -a azul -o VCP -d AJU -e 2014-12-01 -r 2014-12-10
+python src/search_date.py -a azul -o VCP -d CWB -e 2014-12-01 -r 2014-12-10

@@ -1,0 +1,19 @@
+{
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$TextBoxPromoCode": "CALLCENT",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$RadioButtonMarketStructure": "{round_trip}",
+    "__EVENTTARGET": "ControlGroupSearchView2$LinkButtonSubmit",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$TextBoxMarketOrigin1": "{origin_airport}",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$CheckBoxUseMacOrigin1": "on",
+    "hdfSearchCodeDeparture1": "1N",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$TextBoxMarketDestination1": "{destination_airport}",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$CheckBoxUseMacDestination1": "on",
+    "hdfSearchCodeArrival1": "1N",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$DropDownListMarketDay1": "{departure_day}",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$DropDownListMarketMonth1": "{departure_year}-{departure_month}",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$DropDownListMarketDay2": "{return_day}",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$DropDownListMarketMonth2": "{return_year}-{return_month}",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$DropDownListPassengerType_ADT": "1",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$DropDownListPassengerType_CHD": "0",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$DropDownListPassengerType_INFANT": "0",
+    "ControlGroupSearchView2$AvailabilitySearchInputSearchView2$DropDownListFareTypes": "R"
+}

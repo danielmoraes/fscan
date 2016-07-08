@@ -1,0 +1,19 @@
+{
+    "__EVENTTARGET": "",
+    "__EVENTARGUMENT": "",
+    "ctl00$PlaceHolderMain$origem": "{origin_airport}",
+    "ctl00$PlaceHolderMain$para": "{destination_airport}",
+    "ControlGroupSearchView$AvailabilitySearchInputSearchView$TextBoxMarketOrigin1": "{origin_airport}",
+    "ControlGroupSearchView$AvailabilitySearchInputSearchView$TextBoxMarketDestination1": "{destination_airport}",
+    "ControlGroupSearchView$AvailabilitySearchInputSearchView$DropDownListMarketDay1": "{departure_day}",
+    "ControlGroupSearchView$AvailabilitySearchInputSearchView$DropDownListMarketMonth1": "{departure_year}-{departure_month}",
+    "ControlGroupSearchView$AvailabilitySearchInputSearchView$DropDownListMarketDay2": "{return_day}",
+    "ControlGroupSearchView$AvailabilitySearchInputSearchView$DropDownListMarketMonth2": "{return_year}-{return_month}",
+    "ControlGroupSearchView$AvailabilitySearchInputSearchView$DropDownListPassengerType_ADT": "1",
+    "ControlGroupSearchView$AvailabilitySearchInputSearchView$DropDownListPassengerType_CHD": "0",
+    "ControlGroupSearchView$AvailabilitySearchInputSearchView$DropDownListPassengerType_INFT": "0",
+    "ControlGroupSearchView$AvailabilitySearchInputSearchView$RadioButtonMarketStructure": "{round_trip}",
+    "PageFooter_SearchView$DropDownListOriginCountry": "pt",
+    "ControlGroupSearchView$ButtonSubmit": "compre aqui",
+    "ControlGroupSearchView$AvailabilitySearchInputSearchView$DropDownListResidentCountry": "br"
+}

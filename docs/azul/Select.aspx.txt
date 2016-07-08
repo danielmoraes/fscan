@@ -1,0 +1,35 @@
+PRIMARY
+---------------------------------------------------------------------
+Request URL: http://viajemais.voeazul.com.br/Select.aspx
+Request Method: GET
+Status Code: 200 OK
+
+REQUEST HEADERS
+---------------------------------------------------------------------
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Connection:  keep-alive
+Cookie: __utma=1.1724771471.1374843336.1377875308.1383360386.4; __utmb=1.1.10.1383360386; __utmc=1; __utmz=1.1374843336.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); buscasRecentesAzul=%5B%7B%22tipoBusca%22%3A%22RoundTrip%22%2C%22nomeExibidoOrigem1%22%3A%22S%C3%A3o%20Paulo%20-%20Campinas%20(VCP)%22%2C%22nomeEnvioOrigem1%22%3A%22S%C3%A3o%20Paulo%20-%20Campinas%20(VCP)%22%2C%22codigoOrigem1%22%3A%22VCP%22%2C%22macOrigem1%22%3A%22%22%2C%22nomeExibidoDestino1%22%3A%22Curitiba%20(CWB)%22%2C%22nomeEnvioDestino1%22%3A%22Curitiba%20(CWB)%22%2C%22codigoDestino1%22%3A%22CWB%22%2C%22macDestino1%22%3A%22%22%2C%22nomeExibidoOrigem2%22%3Anull%2C%22nomeEnvioOrigem2%22%3Anull%2C%22codigoOrigem2%22%3Anull%2C%22macOrigem2%22%3Anull%2C%22nomeExibidoDestino2%22%3Anull%2C%22nomeEnvioDestino2%22%3Anull%2C%22codigoDestino2%22%3Anull%2C%22macDestino2%22%3Anull%2C%22data1%22%3A%2217%2F09%2F2013%22%2C%22data2%22%3A%2224%2F09%2F2013%22%2C%22buscaTodosMarcado%22%3Afalse%2C%22buscaTodosExibido%22%3Atrue%2C%22adultoIndex%22%3A0%2C%22adultoValue%22%3A%221%22%2C%22criancaIndex%22%3A0%2C%22criancaValue%22%3A%220%22%2C%22bebeIndex%22%3A0%2C%22bebeValue%22%3A%220%22%2C%22flexMarcado%22%3Afalse%2C%22tudoAzul%22%3A%22reais%22%7D%2C%7B%22tipoBusca%22%3A%22RoundTrip%22%2C%22nomeExibidoOrigem1%22%3A%22S%C3%A3o%20Paulo%20-%20Campinas%20(VCP)%22%2C%22nomeEnvioOrigem1%22%3A%22S%C3%A3o%20Paulo%20-%20Campinas%20(VCP)%22%2C%22codigoOrigem1%22%3A%22VCP%22%2C%22macOrigem1%22%3A%22%22%2C%22nomeExibidoDestino1%22%3A%22Aracaju%20(AJU)%22%2C%22nomeEnvioDestino1%22%3A%22Aracaju%20(AJU)%22%2C%22codigoDestino1%22%3A%22AJU%22%2C%22macDestino1%22%3A%22%22%2C%22nomeExibidoOrigem2%22%3Anull%2C%22nomeEnvioOrigem2%22%3Anull%2C%22codigoOrigem2%22%3Anull%2C%22macOrigem2%22%3Anull%2C%22nomeExibidoDestino2%22%3Anull%2C%22nomeEnvioDestino2%22%3Anull%2C%22codigoDestino2%22%3Anull%2C%22macDestino2%22%3Anull%2C%22data1%22%3A%2215%2F11%2F2013%22%2C%22data2%22%3A%2219%2F12%2F2013%22%2C%22buscaTodosMarcado%22%3Afalse%2C%22buscaTodosExibido%22%3Atrue%2C%22adultoIndex%22%3A0%2C%22adultoValue%22%3A%221%22%2C%22criancaIndex%22%3A0%2C%22criancaValue%22%3A%220%22%2C%22bebeIndex%22%3A0%2C%22bebeValue%22%3A%220%22%2C%22flexMarcado%22%3Afalse%2C%22tudoAzul%22%3A%22reais%22%7D%5D; aunica_campanha=Sem%20Informacao%20de%20Origem; ASP.NET_SessionId=tzlqv245miq31l55xufjvsn5; BIGipServerazul-skysales3.4-www=pMTKFS/zKZ/hJe1u4kBej3ekj4JWzT1vPuQ/fwzWnLSI4226akKlPfjeF1ucANUr+u0DcG88Ehkh
+Host: viajemais.voeazul.com.br
+Referer: http://www.voeazul.com.br/
+User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.114 Safari/537.36
+
+FORM DATA
+---------------------------------------------------------------------
+Empty
+
+RESPONSE HEADERS
+---------------------------------------------------------------------
+Cache-Control: no-cache, no-store
+Connection: keep-alive
+Content-Encoding: gzip
+Content-Length: 50716
+Content-Type: text/html; charset=utf-8
+Date: Sat, 02 Nov 2013 02:47:12 GMT
+Expires: -1
+Pragma: no-cache
+Server: Microsoft-IIS/7.5
+Vary: Accept-Encoding
+X-AspNet-Version: 2.0.50727
+X-Powered-By: ASP.NET

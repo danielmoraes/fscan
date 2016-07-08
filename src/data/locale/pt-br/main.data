@@ -1,0 +1,12 @@
+{
+    "airline_not_supported": "companhia aérea %s não encontrada",
+    "airport_not_found": "o aeroporto de origem/destino não foi encontrado",
+    "airport_not_supported": "o aeroporto de origem/destino não é atendido pela companhia aérea",
+    "invalid_dates": "data de saída/chegada inválida (%s)",
+    "no_tickets": "nenhuma passagem encontrada",
+    "request_failed": "falha na requisição",
+    "search_failed": "your search could not be performed at this moment, please try again later",
+    "loading_headers": "carregando cabeçalhos da companhia aérea %s",
+    "getting_tickets": "coletando passagens",
+    "invalid_type": "o tipo desta variável está incorreto (%s)"
+}
