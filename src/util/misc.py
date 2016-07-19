@@ -7,19 +7,6 @@ import time
 import datetime
 
 
-# send_email("nikmoy@gmail.com", "subject", dict_to_string(response))
-def send_email(to, subject, body):
-    url = 'http://nikolasmoya.com/ws/wsSendEmail'
-    req_form = {
-        "destination": to,
-        "subject": subject,
-        "body": body
-    }
-    response_post = requests.post(url, data=req_form)
-    if response_post.text != "OK":
-        print "[!] WARNING: Email was not sent"
-
-
 def debug_html(html):
     debug_path = os.environ['HOME'] + '/fscan_debug.html'
     f = open(debug_path, 'w')
